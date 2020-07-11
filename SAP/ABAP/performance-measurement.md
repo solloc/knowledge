@@ -16,4 +16,4 @@ SET RUN TIME ANALYZER OFF.
 cl_abap_trace_switch=>off( ).
 ```
 
-Analyze with [Runtime analysis](../transaction-code/runtime-analysis)
+Analyze with [Runtime analysis](/SAP/transaction-code/runtime-analysis)
