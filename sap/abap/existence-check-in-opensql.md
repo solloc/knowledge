@@ -1,6 +1,6 @@
 # OpenSQL existence check
 
-``` ABAP
+```text
 select 1 from draw
   into table @data(lt_exists_limit)
   up to 1 rows
@@ -10,3 +10,4 @@ select 1 from draw
     write 'at least one record exists'.
   endif.
 ```
+

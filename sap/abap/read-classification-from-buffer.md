@@ -2,7 +2,7 @@
 
 ## Close classification of currently active object
 
-``` ABAP
+```text
 CALL FUNCTION 'CLO0_DDB_OBJ_VALUATION_CLOSE'
   EXCEPTIONS 
     error_at_tmp_save = 1
@@ -11,7 +11,7 @@ CALL FUNCTION 'CLO0_DDB_OBJ_VALUATION_CLOSE'
 
 ## Open classification of desired object
 
-``` ABAP
+```text
 CALL FUNCTION 'CLO0_DDB_OBJ_VALUATION_OPEN'
   EXPORTING 
 *   CHANGE_NUMBER_IMP            = 
@@ -47,9 +47,9 @@ EXCEPTIONS
     OTHERS                       = 9.
 ```
 
-## Read desired characteristics (optional)
+## Read desired characteristics \(optional\)
 
-``` ABAP
+```text
 CALL FUNCTION 'CTMS_DDB_HAS_CHARACTERISTICS'
   EXPORTING 
 *   QUERY_MODE               = ' ' 
@@ -75,7 +75,7 @@ CALL FUNCTION 'CTMS_DDB_HAS_CHARACTERISTICS'
 
 ## Read characteristic values
 
-``` ABAP
+```text
 CALL FUNCTION 'CTMS_DDB_HAS_VALUES'
   EXPORTING 
     assigned_values      = 'X' 
@@ -99,9 +99,10 @@ ENDIF.
 
 ## Close classification of currently active object
 
-``` ABAP
+```text
 CALL FUNCTION 'CLO0_DDB_OBJ_VALUATION_CLOSE'
   EXCEPTIONS 
     error_at_tmp_save = 1
     OTHERS            = 2.
 ```
+

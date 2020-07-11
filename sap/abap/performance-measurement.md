@@ -1,19 +1,23 @@
 # Performance measurement
 
-``` ABAP
+```text
 cl_abap_trace_switch=>on(
   EXPORTING
     p_prog              = sy-repid    " Program To Be Measured
 ).
 ```
-``` ABAP
+
+```text
 SET RUN TIME ANALYZER ON.
 ```
-``` ABAP
+
+```text
 SET RUN TIME ANALYZER OFF.
 ```
-``` ABAP
+
+```text
 cl_abap_trace_switch=>off( ).
 ```
 
-Analyze with [Runtime analysis](/SAP/transaction-code/runtime-analysis.md)
+Analyze with [Runtime analysis](../transaction-code/runtime-analysis.md)
+
