@@ -1,6 +1,6 @@
 # Authorization data for user
 
-:DE: Berechtigungsobjekte für Anwender
+:de: Berechtigungsobjekte für Anwender
 
 Transaction Code: `SU53`
 
