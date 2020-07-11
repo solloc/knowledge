@@ -1,4 +1,4 @@
-# [My knowledge base](https://solloc.gitbook.io/knowledge/)
+# Introduction
 
 Some knowledge built up over time which might as well be shared
 
