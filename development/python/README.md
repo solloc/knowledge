@@ -6,6 +6,6 @@
 
 ## GUI
 
-### QT
+### Qt
 
-* [PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj) (YouTube) by [Tim](https://techwithtim.net/)
+* [x] [PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj) (YouTube) by [Tim](https://techwithtim.net/)
