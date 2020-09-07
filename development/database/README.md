@@ -3,6 +3,7 @@
 ## References
 
 * [DB-Engines](https://db-engines.com/en/): Database Engine Knowledge Base with [ranking](https://db-engines.com/en/ranking)
+* [Database of Databases](https://dbdb.io/) found in [Lobsters](https://lobste.rs/s/9ncjos/database_databases) (2020)
 * Using [Database Access Control](https://lobste.rs/s/x4luho/does_anyone_use_advanced_database_access) for authorization management (Lobsters 2020)
 
 ## Database Engines
