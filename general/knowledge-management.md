@@ -15,6 +15,9 @@ Original post: [How do you take notes and organize your knowledge?](https://lobs
 * Microsoft OneNote
 * MediaWiki
 * [Gollum](https://github.com/gollum/gollum)
+*   [BookStack](https://www.bookstackapp.com/)
+
+    A platform to create documentation/wiki content built with PHP & Laravel ([Github](https://github.com/BookStackApp/BookStack))
 
 ## Current Solution
 
