@@ -15,3 +15,10 @@
     Free and paid version (community fork)
 
     Releases ~monthly
+* [PhotoPrism](https://photoprism.pro/)
+
+    Active development
+
+    Good categorization features (labels, folders, stacks). Supports TensorFlow.
+
+    Attractive UI (desktop and mobile)
