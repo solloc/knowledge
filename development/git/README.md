@@ -1,6 +1,23 @@
 # Git
 
-...
+## WinMerge as difftool on Windows
+
+1. Locate .gitconfig file
+
+    e.g. `C:\Users\<USER>\.gitconfig`
+
+1. Add path to WinMerge UI
+
+    ```
+    ...
+    [diff]
+        tool = winmerge
+    [difftool "winmerge"]
+        cmd = "'C:/Program Files (x86)/WinMerge/WinMergeU.exe'" -e "$LOCAL" "$REMOTE"
+    ...
+    ```
+
+Source: https://coderwall.com/p/76wmzq/winmerge-as-git-difftool-on-windows (2021)
 
 ## References
 
