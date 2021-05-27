@@ -7,9 +7,17 @@
 
 ## Index
 
-Source for candidates [r/selfhosted](https://www.reddit.com/r/selfhosted) (e.g. [Google Photo alternative showdown](https://www.reddit.com/r/selfhosted/comments/lotc2e/google_photo_alternative_showdown/) last visited May 2021)   
+Source for candidates [r/selfhosted](https://www.reddit.com/r/selfhosted) (e.g. [Google Photo alternative showdown](https://www.reddit.com/r/selfhosted/comments/lotc2e/google_photo_alternative_showdown/) or [Google Photos - The Megathread](https://www.reddit.com/r/selfhosted/comments/k5nzkj/google_photos_the_megathread/) last visited May 2021)   
 
 ## Solutions
+
+* [Photoview](https://photoview.github.io/)
+    
+    Beautiful UI (Close to Google Photos)
+
+    File based
+
+* [PhotoStructure](https://photostructure.com/)
 
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
 
